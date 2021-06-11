@@ -30,4 +30,4 @@ int main(int argc, char *argv[]) {
   return app.exec();
 }
 
-connect(quitBtn, &QPushButton::clicked, qApp, &QApplication::quit);
+
